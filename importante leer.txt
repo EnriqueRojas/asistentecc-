@@ -1,0 +1,2 @@
+importante : copiar asistente v.2.0 al disco d 
+para abrir el archivo .sln
