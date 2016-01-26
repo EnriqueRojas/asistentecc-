@@ -1,0 +1,9 @@
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\Asistente.exe.manifest
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\Asistente.application
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\Asistente.exe
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\Asistente.pdb
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\Asistente.exe.manifest
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\Asistente.application
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\Asistente.exe
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\ConsoleApplication9\ConsoleApplication9\obj\x86\Debug\Asistente.pdb

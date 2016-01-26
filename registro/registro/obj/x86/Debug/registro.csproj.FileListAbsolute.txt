@@ -1,0 +1,5 @@
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\registro\registro\bin\Debug\registro.exe
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\registro\registro\bin\Debug\registro.pdb
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\registro\registro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\registro\registro\obj\x86\Debug\registro.exe
+C:\Users\Rojas\Documents\Visual Studio 2010\Projects\registro\registro\obj\x86\Debug\registro.pdb
